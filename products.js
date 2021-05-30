@@ -13,7 +13,7 @@ let products = [
       "title": "Yarn",
       "description": "Yarn your cat can play with for a very <strong>long</strong> time!",
       "price": 2.99,
-      "image": "images/yarn.jpg",
+      "image": "images/img.png",
       "availableInventory": 7,
       "rating": 3
     },
